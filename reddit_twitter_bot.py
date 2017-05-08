@@ -28,13 +28,13 @@ import urllib.parse
 from glob import glob
 
 # Place your Twitter API keys here
-ACCESS_TOKEN = ''
-ACCESS_TOKEN_SECRET = ''
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
+ACCESS_TOKEN = '861374733186727936-AKWJfSoOpcJCfVEpx1so87UoIJIizGN'
+ACCESS_TOKEN_SECRET = 'XfIXriL3GfrvecS6ydbY6zzPL2uMqItFBfUJFWQiX0rq3'
+CONSUMER_KEY = 'C4Ua9cO4pWhP5rpv0EX8NOxnV'
+CONSUMER_SECRET = 'dx6jrV00MHPrHbuKkxyx8yecnPH4wBwzW3DSdBT3Fn915RUVuC'
 
 # Place the subreddit you want to look up posts from here
-SUBREDDIT_TO_MONITOR = ''
+SUBREDDIT_TO_MONITOR = 'images'
 
 # Place the name of the folder where the images are downloaded
 IMAGE_DIR = 'img'
@@ -49,7 +49,7 @@ TWEET_SUFFIX = ' #dataviz'
 TWEET_MAX_LEN = 140
 
 # Place the time you want to wait between each tweets (in seconds)
-DELAY_BETWEEN_TWEETS = 30
+DELAY_BETWEEN_TWEETS = 1800
 
 # Place the lengths of t.co links (cf https://dev.twitter.com/overview/t.co)
 T_CO_LINKS_LEN = 24
