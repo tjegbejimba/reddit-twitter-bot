@@ -28,10 +28,10 @@ import urllib.parse
 from glob import glob
 
 # Place your Twitter API keys here
-ACCESS_TOKEN = '861374733186727936-AKWJfSoOpcJCfVEpx1so87UoIJIizGN'
-ACCESS_TOKEN_SECRET = 'XfIXriL3GfrvecS6ydbY6zzPL2uMqItFBfUJFWQiX0rq3'
-CONSUMER_KEY = 'C4Ua9cO4pWhP5rpv0EX8NOxnV'
-CONSUMER_SECRET = 'dx6jrV00MHPrHbuKkxyx8yecnPH4wBwzW3DSdBT3Fn915RUVuC'
+ACCESS_TOKEN = 
+ACCESS_TOKEN_SECRET =
+CONSUMER_KEY = 
+CONSUMER_SECRET = 
 
 # Place the subreddit you want to look up posts from here
 SUBREDDIT_TO_MONITOR = 'r/images'
