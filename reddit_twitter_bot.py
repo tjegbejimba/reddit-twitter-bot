@@ -34,7 +34,7 @@ CONSUMER_KEY = 'C4Ua9cO4pWhP5rpv0EX8NOxnV'
 CONSUMER_SECRET = 'dx6jrV00MHPrHbuKkxyx8yecnPH4wBwzW3DSdBT3Fn915RUVuC'
 
 # Place the subreddit you want to look up posts from here
-SUBREDDIT_TO_MONITOR = 'images'
+SUBREDDIT_TO_MONITOR = 'r/images'
 
 # Place the name of the folder where the images are downloaded
 IMAGE_DIR = 'img'
